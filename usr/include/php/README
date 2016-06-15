@@ -1,0 +1,7 @@
+Folder of the php devel package, containing :
+ext
+include
+main
+sapi
+TSRM
+Zend
